@@ -1,0 +1,7 @@
+class: UserData
+table: userdata
+fields:
+  username: String
+  email: String
+  password: String
+  token: String?
